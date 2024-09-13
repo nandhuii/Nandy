@@ -10,6 +10,15 @@ public class Git {
 		private void employee() {
 		System.out.println("empId");
 		}
+		private void java() {
+			System.out.println("same package");
+			}
+			private void python() {
+			System.out.println("Arrays");
+			}
+			private void selenium() {
+			System.out.println("actions");
+			}
 		}
 
 
